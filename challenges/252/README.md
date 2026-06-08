@@ -22,12 +22,12 @@ Challenge: <https://cssbattle.dev/play/252>
 ## Code
 
 ```html
-<p><p a><p a b><p a b c><style>*{background:#6BCF87;position:fixed}p{height:220;width:220;background:#294C0E;border-radius:3in;margin:32 82}[a]{background:#6BCF87;height:90;width:180;border-radius:0 0 1in 1in;margin:142 102}[b]{background:#6BCF87;height:40;width:80;border-radius:0 0 1in 1in;margin:122 132;border:5vw solid#294C0E
+<p b><p a><style>*{background:#6BCF87}[b]{height:80;width:80;margin:102 152;box-shadow:0 0 0 5vw#294C0E,0 0 0 53q#6BCF87,0 0 0 74q#294C0E}p{border-radius:9in;position:fixed}[a]{height:110;width:220;background:#294C0E;border-radius:3in 3in 0 0;margin:32 82
 ```
 
 ## Submission Data
 
 - Challenge: Target 252: Pendant
-- Score: 617.22
+- Score: 635.2
 - Match: 100%
-- Submitted at: 2026-06-08T16:51:05.228Z
+- Submitted at: 2026-06-08T16:52:47.182Z
