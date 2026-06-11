@@ -2,20 +2,29 @@
 
 _This README is fully managed while “Full” mode is enabled. Use “Managed section” in CssHub settings to keep your own text above the index._
 
-## Challenge index
-
-- [Target 250: Recursion](./challenges/250/)
-- [Target 251: The Door](./challenges/251/)
-- [Target 252: Pendant](./challenges/252/)
-- [Target 253: Microbes](./challenges/253/)
-
-<!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-- [Target 246: Limbs](./challenges/246/)
-- [Target 247: LEDs](./challenges/247/)
-- [Target 250: Recursion](./challenges/250/)
-- [Target 251: The Door](./challenges/251/)
-- [Target 252: Pendant](./challenges/252/)
-- [Target 253: Microbes](./challenges/253/)
-<!-- CSSHUB:README-END -->
+### Battles (1)
+
+<ul>
+<li>
+<details>
+<summary><strong>Battle #37 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%2337/%23245.%20Knot/">#245. Knot</a></li>
+</ul>
+</details>
+</li>
+</ul>
+
+### Legacy (6)
+
+<ul>
+<li><a href="./challenges/246/">Target 246: Limbs</a></li>
+<li><a href="./challenges/247/">Target 247: LEDs</a></li>
+<li><a href="./challenges/250/">Target 250: Recursion</a></li>
+<li><a href="./challenges/251/">Target 251: The Door</a></li>
+<li><a href="./challenges/252/">Target 252: Pendant</a></li>
+<li><a href="./challenges/253/">Target 253: Microbes</a></li>
+</ul>
