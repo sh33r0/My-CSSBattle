@@ -4,14 +4,15 @@ _This README is fully managed while “Full” mode is enabled. Use “Managed s
 
 ## CssHub challenge index
 
-### Battles (1)
+### Battles (2)
 
 <ul>
 <li>
 <details>
-<summary><strong>Battle #37 (1)</strong></summary>
+<summary><strong>Battle #37 (2)</strong></summary>
 
 <ul>
+<li><a href="./Battles/Battle%20%2337/%23244.%20Medusa/">#244. Medusa</a></li>
 <li><a href="./Battles/Battle%20%2337/%23245.%20Knot/">#245. Knot</a></li>
 </ul>
 </details>
