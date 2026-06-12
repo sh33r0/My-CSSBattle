@@ -4,9 +4,18 @@ _This README is fully managed while “Full” mode is enabled. Use “Managed s
 
 ## CssHub challenge index
 
-### Battles (2)
+### Battles (3)
 
 <ul>
+<li>
+<details>
+<summary><strong>Battle #36 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%2336/%23241.%20Mint%20Typewriter/">#241. Mint Typewriter</a></li>
+</ul>
+</details>
+</li>
 <li>
 <details>
 <summary><strong>Battle #37 (2)</strong></summary>
