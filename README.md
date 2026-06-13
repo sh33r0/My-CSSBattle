@@ -4,9 +4,18 @@ _This README is fully managed while “Full” mode is enabled. Use “Managed s
 
 ## CssHub challenge index
 
-### Battles (3)
+### Battles (4)
 
 <ul>
+<li>
+<details>
+<summary><strong>Battle #34 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%2334/%23226.%20Bond/">#226. Bond</a></li>
+</ul>
+</details>
+</li>
 <li>
 <details>
 <summary><strong>Battle #36 (1)</strong></summary>
