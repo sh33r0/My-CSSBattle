@@ -55,16 +55,17 @@ _This README is fully managed while “Full” mode is enabled. Use “Managed s
 </li>
 </ul>
 
-### Daily Targets (2)
+### Daily Targets (3)
 
 <ul>
 <li>
 <details>
-<summary><strong>June 2026 (2)</strong></summary>
+<summary><strong>June 2026 (3)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-06-11/">Jun 11, 2026</a></li>
 <li><a href="./Daily%20Targets/2026-06-13/">Jun 13, 2026</a></li>
+<li><a href="./Daily%20Targets/2026-06-14/">Jun 14, 2026</a></li>
 </ul>
 </details>
 </li>
