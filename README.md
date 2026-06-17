@@ -4,7 +4,7 @@ _This README is fully managed while “Full” mode is enabled. Use “Managed s
 
 ## CssHub challenge index
 
-### Battles (10)
+### Battles (11)
 
 <ul>
 <li>
@@ -13,6 +13,15 @@ _This README is fully managed while “Full” mode is enabled. Use “Managed s
 
 <ul>
 <li><a href="./Battles/Battle%20%231/%231.%20Simply%20Square/">#1. Simply Square</a></li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #11 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%2311/%2355.%20Windmill/">#55. Windmill</a></li>
 </ul>
 </details>
 </li>
