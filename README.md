@@ -1,6 +1,6 @@
 # CssHub — CSSBattle solutions
 
-_This README is fully managed while “Full” mode is enabled. Use “Managed section” in CssHub settings to keep your own text above the index._
+_[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 
 ## CssHub challenge index
 
