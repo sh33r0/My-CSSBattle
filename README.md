@@ -5,7 +5,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (14)
+### Battles (15)
 
 <ul>
 <li>
@@ -19,9 +19,10 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 </li>
 <li>
 <details>
-<summary><strong>Battle #10 (2)</strong></summary>
+<summary><strong>Battle #10 (3)</strong></summary>
 
 <ul>
+<li><a href="./Battles/Battle%20%2310/%2347.%20Corona%20Virus/">#47. Corona Virus</a></li>
 <li><a href="./Battles/Battle%20%2310/%2348.%20Wash%20Your%20Hands/">#48. Wash Your Hands</a></li>
 <li><a href="./Battles/Battle%20%2310/%2349.%20Stay%20at%20Home/">#49. Stay at Home</a></li>
 </ul>
