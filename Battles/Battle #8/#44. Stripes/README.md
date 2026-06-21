@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/44>
 ## Code
 
 ```html
-<body bgcolor=#1A4341><p><style>p{height:20;width:170;background:#F3AC3C;margin:60 105;box-shadow:0 40px#F3AC3C,0 80px#F3AC3C,0 30vw#F3AC3C,0 40vw#F3AC3C}p:after{position:fixed;content:'';height:300;width:300;background:#1A4341;border-radius:50%;box-shadow:400PX 0#1A4341;left:-150;top:0
+<p c><p a><p a b><style>*{background:#1A4341}[c]{background:repeating-linear-gradient(#F3AC3C 0,#F3AC3C 5vw,#1A4341 5vw,#1A4341 5ch);height:180;width:180;margin:60 92}[a]{height:300;width:300;border-radius:9in;margin:-300-158;position:fixed}[b]{left:408
 ```
