@@ -5,7 +5,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (18)
+### Battles (19)
 
 <ul>
 <li>
@@ -14,6 +14,15 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 
 <ul>
 <li><a href="./Battles/Battle%20%231/%231.%20Simply%20Square/">#1. Simply Square</a></li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #7 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%237/%2340.%20Letter%20B/">#40. Letter B</a></li>
 </ul>
 </details>
 </li>
