@@ -5,7 +5,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (20)
+### Battles (21)
 
 <ul>
 <li>
@@ -19,9 +19,10 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 </li>
 <li>
 <details>
-<summary><strong>Battle #7 (2)</strong></summary>
+<summary><strong>Battle #7 (3)</strong></summary>
 
 <ul>
+<li><a href="./Battles/Battle%20%237/%2336.%20Interleaved/">#36. Interleaved</a></li>
 <li><a href="./Battles/Battle%20%237/%2338.%20Not%20Simply%20Square/">#38. Not Simply Square</a></li>
 <li><a href="./Battles/Battle%20%237/%2340.%20Letter%20B/">#40. Letter B</a></li>
 </ul>
