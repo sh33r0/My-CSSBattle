@@ -5,7 +5,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (24)
+### Battles (25)
 
 <ul>
 <li>
@@ -19,9 +19,10 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 </li>
 <li>
 <details>
-<summary><strong>Battle #7 (5)</strong></summary>
+<summary><strong>Battle #7 (6)</strong></summary>
 
 <ul>
+<li><a href="./Battles/Battle%20%237/%2333.%20Birdie/">#33. Birdie</a></li>
 <li><a href="./Battles/Battle%20%237/%2334.%20Christmas%20Tree/">#34. Christmas Tree</a></li>
 <li><a href="./Battles/Battle%20%237/%2335.%20Ice%20Cream/">#35. Ice Cream</a></li>
 <li><a href="./Battles/Battle%20%237/%2336.%20Interleaved/">#36. Interleaved</a></li>
