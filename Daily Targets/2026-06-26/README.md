@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/HXrAieeMjNEmOzbRlBIV>
 ## Code
 
 ```html
-<p><p a><p b><p b c><style>*{background:#D8F581}p{background:#222;height:55;width:55;position:fixed;margin:32 82}[a]{margin:197 247}[b]{scale:2;margin:169 109}[c]{margin:60 220
+<p><p a><p b><p b c><style>*{background:#D8F581}p{background:#222;height:110;width:110;position:fixed;margin:142 82}[a]{margin:32 192}[b]{scale:0.5;margin:5 54}[c]{margin:169 219
 ```
