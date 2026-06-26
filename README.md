@@ -157,18 +157,19 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 </li>
 </ul>
 
-### Daily Targets (4)
+### Daily Targets (5)
 
 <ul>
 <li>
 <details>
-<summary><strong>June 2026 (4)</strong></summary>
+<summary><strong>June 2026 (5)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-06-11/">Jun 11, 2026</a></li>
 <li><a href="./Daily%20Targets/2026-06-13/">Jun 13, 2026</a></li>
 <li><a href="./Daily%20Targets/2026-06-14/">Jun 14, 2026</a></li>
 <li><a href="./Daily%20Targets/2026-06-18/">Jun 18, 2026</a></li>
+<li><a href="./Daily%20Targets/2026-06-26/">Jun 26, 2026</a></li>
 </ul>
 </details>
 </li>
