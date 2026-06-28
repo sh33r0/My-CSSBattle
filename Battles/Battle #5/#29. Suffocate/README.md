@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/29>
 ## Code
 
 ```html
-<p><style>body{background:#F3AC3C;margin:0}p{height:200;width:200;background:#F3AC3C;border-radius:50%;margin:-50 0;box-shadow:50vw 0#F3AC3C,0 50vw#F3AC3C,50vw 50vw#F3AC3C,25vw 25vw#1A4341
+<p><style>body{background:#F3AC3C}p{height:200;width:200;background:#F3AC3C;border-radius:50%;margin:-58 -8;box-shadow:50vw 0,0 50vw,50vw 50vw,25vw 25vw#1A4341;color:#F3AC3C
 ```
