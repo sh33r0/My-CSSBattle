@@ -5,7 +5,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (28)
+### Battles (29)
 
 <ul>
 <li>
@@ -19,9 +19,10 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 </li>
 <li>
 <details>
-<summary><strong>Battle #5 (1)</strong></summary>
+<summary><strong>Battle #5 (2)</strong></summary>
 
 <ul>
+<li><a href="./Battles/Battle%20%235/%2329.%20Suffocate/">#29. Suffocate</a></li>
 <li><a href="./Battles/Battle%20%235/%2330.%20Horizon/">#30. Horizon</a></li>
 </ul>
 </details>
