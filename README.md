@@ -5,15 +5,16 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (31)
+### Battles (32)
 
 <ul>
 <li>
 <details>
-<summary><strong>Battle #1 (1)</strong></summary>
+<summary><strong>Battle #1 (2)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%231/%231.%20Simply%20Square/">#1. Simply Square</a></li>
+<li><a href="./Battles/Battle%20%231/%232.%20Carrom/">#2. Carrom</a></li>
 </ul>
 </details>
 </li>
@@ -22,7 +23,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <summary><strong>Battle #4 (1)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp; Balls</a></li>
+<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp; Balls</a></li>
 </ul>
 </details>
 </li>
