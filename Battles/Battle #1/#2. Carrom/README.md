@@ -22,31 +22,5 @@ Challenge: <https://cssbattle.dev/play/2>
 ## Code
 
 ```html
-<div class="a"></div>
-<div class="b"></div>
-<div class="c"></div>
-<div class="d"></div>
-<style>
-  body {
-    background: #62374e;
-  }
-  .a, .b, .c, .d{
-    position:absolute;
-    width: 50px;
-    height: 50px;
-    background: #fdc57b;
-    top:50px;
-    left:50px;
-  }
-  .b{
-    left:300px;
-  }
-  .c{
-    top:200px;
-  }
-  .d{
-    top:200px;
-    left:300px;
-  }
-</style>
+<body bgcolor=62374e style=width:50;height:50;color:#fdc57b;margin:50-8;box-shadow:58px+0,308px+0,58px+50vh,308px+50vh>
 ```
