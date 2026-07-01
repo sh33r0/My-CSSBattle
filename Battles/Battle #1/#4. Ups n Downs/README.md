@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/4>
 ## Code
 
 ```html
-<div class="s"></div><div class="s a"></div><div class="s b"></div><style>body{background:#62306d;display:flex;align-items:center;justify-content:center}.s{position:absolute;width:100px;height:100px;background:#f7ec7d;top:150px;left:50px;border-bottom-left-radius:50px;border-bottom-right-radius:50px}.a{left:250px}.b{top:50px;left:150px;transform:rotate(180deg
+<p><p a><p b><style>*{background:#62306D}p{background:#F7EC7D;width:100;height:100;position:fixed;margin:142 42;border-radius:0 0 1in 1in}[a]{left:208}[b]{margin:42 142;border-radius:1in 1in 0 0
 ```
