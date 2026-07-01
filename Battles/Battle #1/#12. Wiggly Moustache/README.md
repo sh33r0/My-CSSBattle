@@ -1,6 +1,6 @@
 # #12. Wiggly Moustache
 
-Challenge: <https://cssbattle.dev/play/12>
+Challenge: <https://cssbattle.dev/play/12#>
 
 ## Result
 
@@ -22,29 +22,5 @@ Challenge: <https://cssbattle.dev/play/12>
 ## Code
 
 ```html
-<body bgcolor=#F5D6B4><p><style>
-  p{
-    height:30px; width:60px;
-    border: 20px solid #D86F45;
-    border-radius:50px 50px 0 0;
-    border-bottom:0;
-    margin:100px 0 0 142px;
-  }
-  p:before{
-    content:'';
-    display: block;
-    height:30px; width:60px;
-    border: 20px solid #D86F45;
-    border-radius:0 0 50px 50px;
-    border-top:0;
-    margin:30 0 0 -100px;
-    filter:drop-shadow(160px 0 #D86F45);
-  }
-  p:after{
-    content:'';
-    position: absolute;
-    border: 10px solid #D86F45;
-    border-radius: 50%;
-    margin: -60 0 0 -99;
-    box-shadow:240px 0 #D86F45;
+<p><style>*{background:#f5d6b4;color:#D86F45}p,p:before{height:30;width:60;border:5vw solid;border-radius:1in 1in 0 0;border-bottom:0;margin:100 142}p:before,p:after{content:"";display:block;border:5vw solid;border-radius:0 0 1in 1in;border-top:0;margin:30-100;filter:drop-shadow(40vw 0)}p:after{position:absolute;border:10px solid;border-radius:50%;margin:-90-100;box-shadow:60vw 0
 ```
