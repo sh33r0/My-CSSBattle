@@ -5,7 +5,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (40)
+### Battles (41)
 
 <ul>
 <li>
@@ -37,7 +37,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 
 <ul>
 <li><a href="./Battles/Battle%20%234/%2326.%20Smiley/">#26. Smiley</a></li>
-<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
+<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
 </ul>
 </details>
 </li>
@@ -63,7 +63,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 </li>
 <li>
 <details>
-<summary><strong>Battle #7 (6)</strong></summary>
+<summary><strong>Battle #7 (7)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%237/%2333.%20Birdie/">#33. Birdie</a></li>
@@ -71,6 +71,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <li><a href="./Battles/Battle%20%237/%2335.%20Ice%20Cream/">#35. Ice Cream</a></li>
 <li><a href="./Battles/Battle%20%237/%2336.%20Interleaved/">#36. Interleaved</a></li>
 <li><a href="./Battles/Battle%20%237/%2338.%20Not%20Simply%20Square/">#38. Not Simply Square</a></li>
+<li><a href="./Battles/Battle%20%237/%2339.%20Sunset/">#39. Sunset</a></li>
 <li><a href="./Battles/Battle%20%237/%2340.%20Letter%20B/">#40. Letter B</a></li>
 </ul>
 </details>
