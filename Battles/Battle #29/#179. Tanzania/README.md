@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/179>
 ## Code
 
 ```html
-<body style="background:repeating-linear-gradient(-30deg,#3B66B0 0,#3B66B0 160px,#F8CD1E 160px,#F8CD1E 180px,#000 180px,#000 280px,#F8CD1E 280px,#F8CD1E 300px,#14A84A 300px,#14A84A 500px)">
+<body style="background:repeating-linear-gradient(-30deg,#3B66B0 0,#3B66B0 40vw,#F8CD1E 40vw,#F8CD1E 45vw,#000 45vw,#000 70vw,#F8CD1E 70vw,#F8CD1E 75vw,#14A84A 75vw,#14A84A 5in)">
 ```
