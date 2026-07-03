@@ -5,7 +5,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (44)
+### Battles (45)
 
 <ul>
 <li>
@@ -38,7 +38,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 
 <ul>
 <li><a href="./Battles/Battle%20%234/%2326.%20Smiley/">#26. Smiley</a></li>
-<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
+<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
 </ul>
 </details>
 </li>
@@ -160,6 +160,15 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <ul>
 <li><a href="./Battles/Battle%20%2326/%23159.%20Portal/">#159. Portal</a></li>
 <li><a href="./Battles/Battle%20%2326/%23160.%20Donut/">#160. Donut</a></li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #29 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%2329/%23179.%20Tanzania/">#179. Tanzania</a></li>
 </ul>
 </details>
 </li>
