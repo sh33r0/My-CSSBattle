@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/17>
 ## Code
 
 ```html
-<body bgcolor=#09042A><p><p a><p b><p b c><p d><style>p{height:60;width:60;background:#F5BB9C;position:fixed;border-radius:50%;top:41;left:160;border:10px solid#09042A;}[a]{top:147}[b]{top:94;left:100;background:#09042A;border-color:#E78481}[c]{left:220}[d]{top:108;left:170;background:#E78481;height:54;border:0;border-radius:0;z-index:-1
+<body bgcolor=09042A><p><p a><p b><p b c><p d><style>p{height:60;width:60;background:#F5BB9C;position:fixed;border-radius:50%;top:41;left:160;border:10px solid#09042A}[a]{top:147}[b]{top:94;left:100;background:#09042A;border-color:#E78481}[c]{left:220}[d]{top:108;left:170;background:#E78481;height:54;border:0;border-radius:0;z-index:-1
 ```
