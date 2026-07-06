@@ -49,7 +49,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 
 <ul>
 <li><a href="./Battles/Battle%20%234/%2326.%20Smiley/">#26. Smiley</a></li>
-<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
+<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
 </ul>
 </details>
 </li>
@@ -272,7 +272,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 </li>
 </ul>
 
-### Daily Targets (7)
+### Daily Targets (8)
 
 <ul>
 <li>
@@ -291,10 +291,11 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 </li>
 <li>
 <details>
-<summary><strong>July 2026 (1)</strong></summary>
+<summary><strong>July 2026 (2)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-07-01/">Jul 1, 2026</a></li>
+<li><a href="./Daily%20Targets/2026-07-06/">Jul 6, 2026</a></li>
 </ul>
 </details>
 </li>
