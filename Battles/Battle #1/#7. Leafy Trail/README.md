@@ -22,32 +22,5 @@ Challenge: <https://cssbattle.dev/play/7>
 ## Code
 
 ```html
-<div class="s"></div>
-<div class="s a"></div>
-<div class="s b"></div>
-<style>
-  body {
-    background: #0b2429;
-  }
-  .s {
-    position: absolute;
-    background: #1a4341;
-    width: 150px;
-    height: 150px;
-    top: 75px;
-    left: 75px;
-    border-top-left-radius: 100px;
-    border-bottom-right-radius: 100px;
-  }
-  .a {
-    left: 125px;
-    background: #998235;
-    z-index: 1;
-  }
-  .b {
-    left: 175px;
-    background: #f3ac3c;
-    z-index: 2;
-  }
-</style>
+<div class="s"></div><div class="s a"></div><div class="s b"></div><style>body{background:#0b2429}.s{position:absolute;background:#1a4341;width:50vh;height:50vh;top:75px;left:75px;border-top-left-radius:25vw;border-bottom-right-radius:25vw}.a{left:125px;background:#998235;z-index:1}.b{left:175px;background:#f3ac3c;z-index:2
 ```
