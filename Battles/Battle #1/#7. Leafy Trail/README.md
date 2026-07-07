@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/7>
 ## Code
 
 ```html
-<body style="height:150;width:150;background:#0B2429;margin:75 321;border-radius:25vw 0;box-shadow:-146px 0#F3AC3C,-49vw 0#998235,-82vh 0#1A4341">
+<body style=height:150;width:150;background:#0B2429;margin:75+321;border-radius:25vw+0;box-shadow:-146px+0#F3AC3C,-49vw+0#998235,-82vh+0#1A4341>
 ```
