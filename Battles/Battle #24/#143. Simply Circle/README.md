@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/143>
 ## Code
 
 ```html
-<body style="background:radial-gradient(circle at 25vw 25vw,#D86F45 25vw,#F5D6B4 0)"></body>
+<body style="background:radial-gradient(circle at+25vw+25vw,#D86F45+25vw,#F5D6B4+0">
 ```
