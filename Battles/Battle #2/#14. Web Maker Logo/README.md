@@ -22,31 +22,5 @@ Challenge: <https://cssbattle.dev/play/14>
 ## Code
 
 ```html
-<body bgcolor=F2F2B6><p><p a><style>p{
-    width:0;
-    border-style:solid;
-    border-width:130px 75px 0 75px;
-    border-color: #FF6D00 transparent;
-    margin:85 52;
-    }
-  p[a]{
-    transform:rotate(180deg);
-    position:fixed;
-    top:0; left:138;
-    z-index:-1;
-  }
-  p:after{
-    content:'';
-    width: 0;
-    height:0;
-    border-style:solid;
- border-width: 0 75px 130px 75px;
-border-color: #FD4602 transparent;
-    position:fixed;
-    top:85; left:170;
-    z-index:1;
-  }
-    p[a]:after{
-    top:-130; left:35;
-    }
+<body bgcolor=F2F2B6><p o><p y a><p y b><p o b c><style>p{width:0;border-style:solid;border-width:130px 75px 0 75px;margin:77 73;position:fixed}[a]{left:-13}[y]{border-color:#FF6D00#0000}[o]{border-color:#FD4602#0000}[b]{rotate:180deg;left:117}[c]{left:97
 ```
