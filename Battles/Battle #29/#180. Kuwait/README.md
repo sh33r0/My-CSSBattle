@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/180>
 ## Code
 
 ```html
-<p><style>&{background:linear-gradient(#13AA4B 0 100px,#FFF 100px 200px,#EC1E25 200px)}p{height:100;border:solid#0000;width:0;border-left-color:#000;margin:-8;border-width:100px 120px
+<p><style>&{background:linear-gradient(#13AA4B 25vw,#FFF 25vw 50vw,#EC1E25 50vw)}p{height:100;border:solid#0000;width:0;border-left-color:#000;margin:-8;border-width:25vw 30vw
 ```
