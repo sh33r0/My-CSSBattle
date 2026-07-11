@@ -5,7 +5,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (67)
+### Battles (68)
 
 <ul>
 <li>
@@ -54,7 +54,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <ul>
 <li><a href="./Battles/Battle%20%234/%2326.%20Smiley/">#26. Smiley</a></li>
 <li><a href="./Battles/Battle%20%234/%2327.%20Lock%20Up/">#27. Lock Up</a></li>
-<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
+<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
 </ul>
 </details>
 </li>
@@ -217,6 +217,15 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 
 <ul>
 <li><a href="./Battles/Battle%20%2327/%23167.%20React%20India/">#167. React India</a></li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #28 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%2328/%23177.%20Frankenstein/">#177. Frankenstein</a></li>
 </ul>
 </details>
 </li>
