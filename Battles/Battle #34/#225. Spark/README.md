@@ -22,10 +22,5 @@ Challenge: <https://cssbattle.dev/play/225>
 ## Code
 
 ```html
-<p><p a><p b><p c><p c d><p c d e><style>
-& {
-  background:#343848 ;
-  
-}
-p{position:fixed;height:40;width:140;background:#E25C57;margin:42-8}[a]{left:268}[b]{rotate:90deg;margin:252 122}[c]{width:40;background:#F4DA64;rotate:45deg;left:188}[d]{margin:122-48}[e]{left:268
+<p><p a><p b><p c><p c d><p c d e><style>&{background:#343848}p{position:fixed;height:40;width:140;background:#E25C57;margin:42-8}[a]{left:268}[b]{rotate:90deg;margin:252 122}[c]{width:40;background:#F4DA64;rotate:45deg;left:188}[d]{margin:122-48}[e]{left:268
 ```
