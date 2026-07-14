@@ -5,7 +5,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (75)
+### Battles (76)
 
 <ul>
 <li>
@@ -29,11 +29,12 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 </li>
 <li>
 <details>
-<summary><strong>Battle #2 (5)</strong></summary>
+<summary><strong>Battle #2 (6)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%232/%2313.%20Totally%20Triangle/">#13. Totally Triangle</a></li>
 <li><a href="./Battles/Battle%20%232/%2314.%20Web%20Maker%20Logo/">#14. Web Maker Logo</a></li>
+<li><a href="./Battles/Battle%20%232/%2315.%20Overlap/">#15. Overlap</a></li>
 <li><a href="./Battles/Battle%20%232/%2316.%20Eye%20of%20the%20Tiger/">#16. Eye of the Tiger</a></li>
 <li><a href="./Battles/Battle%20%232/%2317.%20Fidget%20Spinner/">#17. Fidget Spinner</a></li>
 <li><a href="./Battles/Battle%20%232/%2318.%20Matrix/">#18. Matrix</a></li>
@@ -56,7 +57,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <ul>
 <li><a href="./Battles/Battle%20%234/%2326.%20Smiley/">#26. Smiley</a></li>
 <li><a href="./Battles/Battle%20%234/%2327.%20Lock%20Up/">#27. Lock Up</a></li>
-<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
+<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
 </ul>
 </details>
 </li>
