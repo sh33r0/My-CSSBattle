@@ -5,7 +5,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (87)
+### Battles (88)
 
 <ul>
 <li>
@@ -57,7 +57,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <ul>
 <li><a href="./Battles/Battle%20%234/%2326.%20Smiley/">#26. Smiley</a></li>
 <li><a href="./Battles/Battle%20%234/%2327.%20Lock%20Up/">#27. Lock Up</a></li>
-<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
+<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
 </ul>
 </details>
 </li>
@@ -232,6 +232,15 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <li><a href="./Battles/Battle%20%2324/%23143.%20Simply%20Circle/">#143. Simply Circle</a></li>
 <li><a href="./Battles/Battle%20%2324/%23146.%20Streaks/">#146. Streaks</a></li>
 <li><a href="./Battles/Battle%20%2324/%23149.%20Earthworm/">#149. Earthworm</a></li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>Battle #25 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%2325/%23153.%20Checkers/">#153. Checkers</a></li>
 </ul>
 </details>
 </li>
