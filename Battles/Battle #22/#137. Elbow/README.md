@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/137>
 ## Code
 
 ```html
-<p><p a><p b><style>*{background:#6592CF}p{position:fixed;height:50;width:205;background:#060F55;margin:42 137}[a]{width:50;height:105;margin:137 42}[b]{height:45;width:45;background:#0000;border:solid#060F55;border-width:50px 0 0 50px;border-radius:100px 0 0;margin:42
+<p><style>body{background:#6592CF;margin:50}p{width:250;height:150;border:solid#060F55;border-radius:25vw 0;border-width:50px 0 0 50px
 ```
