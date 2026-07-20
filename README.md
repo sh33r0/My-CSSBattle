@@ -5,7 +5,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (92)
+### Battles (93)
 
 <ul>
 <li>
@@ -57,7 +57,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <ul>
 <li><a href="./Battles/Battle%20%234/%2326.%20Smiley/">#26. Smiley</a></li>
 <li><a href="./Battles/Battle%20%234/%2327.%20Lock%20Up/">#27. Lock Up</a></li>
-<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
+<li><a href="./Battles/Battle%20%234/%2328.%20Cups%20%26%20Balls/">#28. Cups &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Balls</a></li>
 </ul>
 </details>
 </li>
@@ -359,7 +359,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 </li>
 <li>
 <details>
-<summary><strong>Battle #40 (7)</strong></summary>
+<summary><strong>Battle #40 (8)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%2340/%23262.%20Pinwheel/">#262. Pinwheel</a></li>
@@ -369,6 +369,7 @@ _[My CSS Battle Profile](https://cssbattle.dev/player/sh33r0)_
 <li><a href="./Battles/Battle%20%2340/%23266.%20Bridge/">#266. Bridge</a></li>
 <li><a href="./Battles/Battle%20%2340/%23267.%20Knobs/">#267. Knobs</a></li>
 <li><a href="./Battles/Battle%20%2340/%23268.%20Square%20Shift/">#268. Square Shift</a></li>
+<li><a href="./Battles/Battle%20%2340/%23269.%20Parentheses/">#269. Parentheses</a></li>
 </ul>
 </details>
 </li>
