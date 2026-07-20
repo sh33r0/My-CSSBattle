@@ -22,6 +22,5 @@ Challenge: <https://cssbattle.dev/play/269>
 ## Code
 
 ```html
-<style>
-*{margin:0;background:repeating-linear-gradient(90deg,#394257 0 20px,#0000 20px 100px,#394257 100px 120px,#0000 120px 140px)70px/260px 100px no-repeat,radial-gradient(100px at 200% 50%,#0000 119px,#EED9D9 0) 110px 35px/80px 230px no-repeat,radial-gradient(100px at -100% 50%,#0000 119px,#EED9D9 0) 210px 35px/80px 230px no-repeat,#668884}
+<style>*{margin:0;background:repeating-linear-gradient(90deg,#394257 0 5vw,#0000 5vw 25vw,#394257 25vw 30vw,#0000 30vw 35vw)70px/65vw 25vw no-repeat,radial-gradient(1q at 200%50%,#0000 30vw,#EED9D9 0)110px 35px/5pc 230px no-repeat,radial-gradient(1q at -100%50%,#0000 30vw,#EED9D9 0)70vh 35px/5pc 230px no-repeat,#668884
 ```
