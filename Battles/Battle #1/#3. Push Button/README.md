@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/3>
 ## Code
 
 ```html
-<div class="r"></div><div class="c a"></div><div class="c b"></div><div class="c d"></div><style>body{background:#6592CF;display:flex;align-items:center;justify-content:center}.r{width:300;height:150;background:#243D83}.c{border-radius:50%;position:absolute}.a{width:250;height:250;background:#6592CF}.b{width:150px;height:150px;background:#243D83}.d{width:50px;height:50px;background:#EEB850
+<div class="r"></div><div class="c a"></div><div class="c b"></div><div class="c d"></div><style>body{background:#6592CF;display:flex;align-items:center;justify-content:center}.r{width:300;height:150;background:#243D83}.c{border-radius:50%;position:absolute}.a{width:250;height:250;background:#6592CF}.b{width:50vh;height:50vh;background:#243D83}.d{width:50px;height:50px;background:#EEB850
 ```
