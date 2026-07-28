@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/163>
 ## Code
 
 ```html
-<p><p a><p b><style>*{background:#D669EC}p{background:#FDFBF8;position:fixed;clip-path: polygon(0 0, 54% 0, 104% 50%, 100% 100%, 46% 100%, 0 53%);height:100;width:100;margin:32 82}[a]{rotate:90deg;left:128}[b]{scale:1-1;top:128}
+<p><p a><p b><style>*{background:#D669EC}p{background:#FDFBF8;position:fixed;clip-path:polygon(0 0,54%0,104%50%,100%100%,46%100%,0 53%);height:100;width:100;margin:32 82}[a]{rotate:90deg;left:128}[b]{scale:1-1;top:128
 ```
