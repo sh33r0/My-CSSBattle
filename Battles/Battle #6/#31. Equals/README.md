@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/31>
 ## Code
 
 ```html
-<p><p a><style>*{background:#AA445F}p{height:200;width:100;background:#F7EC7D;border-radius:25vw 0 0 25vw;margin:50 67}[a]{rotate:180deg;background:#E38F66;margin:-250 217
+<p><p a><style>*{background:#AA445F}p{height:200;width:100;background:#F7EC7D;border-radius:25vw 0 0 25vw;margin:50 67}[a]{scale:-1 1;background:#E38F66;margin:-250 217
 ```
