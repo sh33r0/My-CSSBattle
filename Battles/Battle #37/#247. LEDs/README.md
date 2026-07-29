@@ -25,5 +25,5 @@ Challenge: <https://cssbattle.dev/play/247>
 <p><style>
   *{background:linear-gradient(90deg,#FFF 50%,#606060 0)}
 p{height:40;width:40;margin:10 2;border-radius:50%;background:#606060;
-  box-shadow:90q 0#606060,180q 0#606060,85vh 0,9cm 0,0 15vw#606060,0 30vw#606060,0 45vw#606060,0 60vw#606060,90q 60vw#606060,180q 60vw,85vh 60vw,9cm 60vw,9cm 15vw,9cm 30vw,9cm 45vw;color:#FFF
+  box-shadow:90q 0,180q 0,85vh 0#FFF,9cm 0#FFF,0 15vw,0 30vw,0 45vw,0 60vw,90q 60vw,180q 60vw#FFF,85vh 60vw#FFF,9cm 60vw#FFF,9cm 15vw#FFF,9cm 30vw#FFF,9cm 45vw#FFF;color:#606060
 ```
